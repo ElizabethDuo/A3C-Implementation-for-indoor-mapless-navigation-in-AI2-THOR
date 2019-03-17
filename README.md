@@ -12,6 +12,8 @@ This is a cpu version.
   >`line24`:change the number of trainning `episodes`<br>
   >`line25`:change the number of `steps` per episode<br>
   >`line212`:change the scene an agent navigates in and the target object . The default scene is `Scene201`, and the target is `GarbageCan`.<br>
+  >`line248`:change the initial position in `x` and `z`.<br>
+  >`line249`:change the initial rotation in `rotation`.<br>
   >`line426`: change the number of workers in A3C algorithms.
 
 * Run <br>
