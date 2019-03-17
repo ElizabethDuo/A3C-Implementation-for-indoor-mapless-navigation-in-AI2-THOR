@@ -21,7 +21,7 @@ This is a cpu version.
 
 ## PLOT
 * Vertical view of Scene201<br>
-  run `third-camera.py`<br>
+  run `python third-camera.py`<br>
   You'll get nine third-party cameras which will automatically save their vertical views cover the whole scene.<br>
   Then you'll know what's the scene looks like through these pictures.<br>
   The position of each camera can be different according to the specific size of each scecne, change it in `event0` to `event8` if necessary.<br><br>
