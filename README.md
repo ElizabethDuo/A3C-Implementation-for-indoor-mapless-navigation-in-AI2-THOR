@@ -6,6 +6,7 @@ This is a cpu version.
   Python 2.7<br>
   Tensorflow 1.12<br>
   AI2-THOR<br>
+  (Please see [allenai/ai2thor](https://github.com/allenai/ai2thor) for installation)<br>
 
 ## Train
 * Modify paraments<br>
